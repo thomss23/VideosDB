@@ -83,6 +83,9 @@ For premium users:
 
 In recommendations (without Search Recommendation), the second sorting criterion is the order in the database (ie the order in which it appears in the "movies" / "shows" field in the database). Only in the Search Recommendation the second sorting criterion is the name.
 
+### My output
+
+![Output](https://i.ibb.co/S6Yj1ss/Capture.png)
 
     
 
