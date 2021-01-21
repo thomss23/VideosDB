@@ -8,7 +8,7 @@ It is one the assignments from the [PUB OOP course](https://ocw.cs.pub.ro/course
 
 The *entitites* that have been modelled are as follows: 
 Video
- * Of 2 types: movies and tv shows. The difference between the two is that tv shows contains seasons.
+ * Of 2 types: movies and tv shows. The difference between the two is that tv shows contain seasons.
  * Each video has in common a title, release date, one or more genres 
  * Seasons of a tv show contain a number, length of the entire season and a rating
  * Movies contain length and a rating
